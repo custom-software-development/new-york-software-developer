@@ -1,1 +1,1 @@
-# new-york-software-developer
+This page is about [New York Software Developer](https://asahitechnologies.com/blog/custom-software-development/?utm_source=LinkBuilding&utm_medium=LinkBuilding&utm_campaign=BLYLinkBuil "New York Software Developer") Asahi Technologies and their software development tactics and capabilities.
